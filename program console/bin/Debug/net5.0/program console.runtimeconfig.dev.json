@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\codyl\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\codyl\\.nuget\\packages"
-    ]
-  }
-}
