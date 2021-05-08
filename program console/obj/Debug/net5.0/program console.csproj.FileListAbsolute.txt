@@ -1,0 +1,16 @@
+C:\Users\codyl\OneDrive\Desktop\program console\bin\Debug\net5.0\program console.exe
+C:\Users\codyl\OneDrive\Desktop\program console\bin\Debug\net5.0\program console.deps.json
+C:\Users\codyl\OneDrive\Desktop\program console\bin\Debug\net5.0\program console.runtimeconfig.json
+C:\Users\codyl\OneDrive\Desktop\program console\bin\Debug\net5.0\program console.runtimeconfig.dev.json
+C:\Users\codyl\OneDrive\Desktop\program console\bin\Debug\net5.0\program console.dll
+C:\Users\codyl\OneDrive\Desktop\program console\bin\Debug\net5.0\ref\program console.dll
+C:\Users\codyl\OneDrive\Desktop\program console\bin\Debug\net5.0\program console.pdb
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\program console.csprojAssemblyReference.cache
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\program console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\program console.AssemblyInfoInputs.cache
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\program console.AssemblyInfo.cs
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\program console.csproj.CoreCompileInputs.cache
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\program console.dll
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\ref\program console.dll
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\program console.pdb
+C:\Users\codyl\OneDrive\Desktop\program console\obj\Debug\net5.0\program console.genruntimeconfig.cache
