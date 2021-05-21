@@ -10,7 +10,7 @@ namespace program_console
             var reset1 = Console.BackgroundColor = ConsoleColor.Black;
             var reset2 = Console.ForegroundColor = ConsoleColor.White;
            
-            //Professin story make app cus yes yes yes yes yes yes.
+            //Professin story make app cus yes yes yes yes yes yes. so this code makes it so u pick a story
             Console.Title = "Title making App";
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("");
@@ -37,6 +37,7 @@ namespace program_console
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine(" make a story all the stories we have right now are boxing,night's temple,updated boxing which one would you like?");
+            
 
             string story = Console.ReadLine();
             if(story == "")
@@ -54,9 +55,9 @@ namespace program_console
                string player1 = Console.ReadLine();
                Console.WriteLine("you are " + player1 + " and your mission is to guard the tower of...");
                string tower = Console.ReadLine();
-               Console.WriteLine("you are " + player1 + " and your mission is to guard the tower of " + tower + " there are crimson trying to raid your tower make sure you grab your wepons\n what wepons would you like?");
+               Console.WriteLine("you are " + " " + player1 + "" + "and your mission is to guard the tower of " + tower + " there are crimson trying to raid your tower make sure you grab your wepons\n what wepons would you like?");
                string wepons = Console.ReadLine();
-               Console.WriteLine("so" + player1 + "your here with all of your wepons and horses come by with the CRIMSON and they offer of more knight hood to trade and betray your" + tower + "\n do your accept this offer yes or no?");
+               Console.WriteLine("so" + "" + player1 +   " your here with all of your wepons and horses come by with the CRIMSON and they offer of more knight hood to trade and betray your" + tower + "\n do your accept this offer yes or no?");
                string bbd = Console.ReadLine();
                if (bbd == "yes")
                {
